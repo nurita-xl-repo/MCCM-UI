@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Revenue Stimulation (106)_fa fa-angle-down</name>
+   <tag></tag>
+   <elementGuidId>c06cb1ff-38d3-4878-8ae3-c499678dd74c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='canvas_header']/div[2]/div/div[2]/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Select Theme&quot;i] >> internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a1158156-4a53-4dcf-8178-11c05b920a59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-angle-down</value>
+      <webElementGuid>dfc081d4-8126-47b7-a586-30c1175ad8d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;canvas_header&quot;)/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;btn-group pull-left&quot;]/a[@class=&quot;trevor-print-hidden btn btn-blue btn-sm dropdown-toggle&quot;]/i[@class=&quot;fa fa-angle-down&quot;]</value>
+      <webElementGuid>550d4223-a221-431a-9d89-d046ef88c2f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='canvas_header']/div[2]/div/div[2]/a[2]/i</value>
+      <webElementGuid>2bf3f4b8-ec13-4039-92a3-54e45b5271da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/div[2]/a[2]/i</value>
+      <webElementGuid>81676f9c-1673-40ea-a8da-a335b46d065c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

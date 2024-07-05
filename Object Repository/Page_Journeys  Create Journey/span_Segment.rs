@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Segment</name>
+   <tag></tag>
+   <elementGuidId>2db27c9e-1e47-4f10-9b4b-f9b21ed29ec9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='journey_sidebar']/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.journey-sidebar.sidebar-menu.ng-scope > li > a > span.menu-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Segment&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0fb4e644-6d40-4294-902f-ff3b44f8b540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-text</value>
+      <webElementGuid>28306dc1-2dd2-4822-af84-91583bfa71cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Segment</value>
+      <webElementGuid>7c8479e9-8724-48b1-8647-abf4c6f26f19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;journey_sidebar&quot;)/ul[@class=&quot;journey-sidebar sidebar-menu ng-scope&quot;]/li[1]/a[1]/span[@class=&quot;menu-text&quot;]</value>
+      <webElementGuid>383eaabc-0ce1-4bbf-803e-cb8dd48a7e5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='journey_sidebar']/ul/li/a/span</value>
+      <webElementGuid>94898b73-93ac-4a56-aadc-b66acc9de6b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Design mode'])[1]/following::span[2]</value>
+      <webElementGuid>eb5d8919-68bf-495d-b521-51106d2adf10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info'])[1]/preceding::span[1]</value>
+      <webElementGuid>ad1b04ad-9ce5-40f8-9599-01a0578d4cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Push'])[1]/preceding::span[2]</value>
+      <webElementGuid>f0040c96-88e5-4aa1-9f7b-c6dc6f7498a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Segment']/parent::*</value>
+      <webElementGuid>c78b8069-e898-47fc-95cf-98de577fd9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li/a/span</value>
+      <webElementGuid>ad3faf43-4dfc-447c-8704-0fe567977e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Segment' or . = 'Segment')]</value>
+      <webElementGuid>cacb293a-66c0-4b1d-8cf6-da1767a11086</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

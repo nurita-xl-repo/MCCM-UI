@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Journeys  Create Journey/button_OK",
+      "brokenLocator": "//button[@type\u003d\u0027button\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[2]/preceding::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Journeys  Create Journey/button_OK_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Journeys  Create Journey/i_AXIS_fa fa-angle-down",
+      "brokenLocator": "//js-plumb-object[@id\u003d\u0027block_001\u0027]/div/div/div/a[3]/i",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027canvas_header\u0027]/div[2]/div/div/a[2]/i",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Journeys  Create Journey/i_AXIS_fa fa-angle-down_idRelative.png"
+    }
+  ]
+}

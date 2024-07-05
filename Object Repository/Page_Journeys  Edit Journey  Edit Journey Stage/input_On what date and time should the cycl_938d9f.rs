@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_On what date and time should the cycl_938d9f</name>
+   <tag></tag>
+   <elementGuidId>46608b8b-58aa-470f-b2ca-103c2d8b03dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.ng-pristine.ng-untouched.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Select a time&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>aa15ed46-b7cf-4b57-95a3-83313a9e3134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>9f40bb19-c159-43a3-8860-0605d4a6ff36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select a time</value>
+      <webElementGuid>f540bc03-9866-4393-9adc-95128f1b0385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4a1f1da9-029c-4f99-bf0d-abdbe2f013df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>holder.start_time.startTime</value>
+      <webElementGuid>0ad36819-65e4-4b4c-af4e-5fa06aaeaa65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-lng-clockpicker-options</name>
+      <type>Main</type>
+      <value>start_time_options</value>
+      <webElementGuid>4bcfa587-2c59-4398-a4f8-9341a6dfb7c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;modal fade ng-isolate-scope modal-message modal-info modal-message-lg in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body ng-scope&quot;]/form[@class=&quot;ng-valid ng-dirty ng-valid-parse&quot;]/div[@class=&quot;control-group&quot;]/div[@class=&quot;row ng-scope&quot;]/div[@class=&quot;col-lg-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control ng-pristine ng-untouched ng-valid&quot;]</value>
+      <webElementGuid>1670c181-5213-498a-8413-2fa67a3b1fc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>8831b601-4606-4cb1-8c85-37496e682798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[2]</value>
+      <webElementGuid>c136db10-0412-4b07-b28e-486d0bba4936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Select a time' and @type = 'text']</value>
+      <webElementGuid>389ad81c-e440-4e43-b10a-7294396b0747</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

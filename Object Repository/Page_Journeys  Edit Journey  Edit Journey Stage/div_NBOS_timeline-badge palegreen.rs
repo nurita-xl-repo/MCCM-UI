@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NBOS_timeline-badge palegreen</name>
+   <tag></tag>
+   <elementGuidId>e018abf4-ff91-4a04-90b7-9dfcd476d6a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panzoom-wrapper']/ul/li[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.timeline-badge.palegreen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.timeline-badge >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b8c86f3c-065a-4cfa-b01e-69af0683340f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>timeline-badge palegreen</value>
+      <webElementGuid>d7707870-9412-498f-9f0c-5ba262350f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>onExclusionIconClicked()</value>
+      <webElementGuid>8d47c253-78d4-4be7-8e67-bfa02f3f0c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panzoom-wrapper&quot;)/ul[@class=&quot;timeline ng-scope&quot;]/li[@class=&quot;timeline&quot;]/div[@class=&quot;timeline-badge palegreen&quot;]</value>
+      <webElementGuid>fbb9e3dd-4f79-459a-8d43-52103e4d8ede</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panzoom-wrapper']/ul/li[2]/div</value>
+      <webElementGuid>f37813f6-e8e4-418b-94fa-ae773c705ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NBOS'])[1]/following::div[1]</value>
+      <webElementGuid>e6f4804c-9a59-4680-a0c5-52f900c72543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event Triggered'])[1]/following::div[1]</value>
+      <webElementGuid>5a26062e-18c3-4b38-8669-947790a0574c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='from this journey stage, even if in the segment'])[1]/preceding::div[1]</value>
+      <webElementGuid>bfb0692b-69da-4bf3-9812-27585b1fb9ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div</value>
+      <webElementGuid>b5a65a5f-9888-4209-821a-93e8f668ff63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

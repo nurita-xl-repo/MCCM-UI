@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Exclusions</name>
+   <tag></tag>
+   <elementGuidId>25720c52-38ec-4cbe-8ed4-f0e505992acd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Optional Field - configure a rule to define a conditional exit'])[1]/following::div[29]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-title.ng-binding.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=dialog >> internal:text=&quot;Exclusions&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>03d46769-70fa-4440-a306-07ca57e79f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-title ng-binding ng-scope</value>
+      <webElementGuid>3165d8fd-9c91-4bee-9027-fac7a1baf114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Exclusions</value>
+      <webElementGuid>5453d8e8-7b9a-45fe-9b90-b5891080ee83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;modal fade ng-isolate-scope modal-message modal-info modal-message-lg in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-title ng-binding ng-scope&quot;]</value>
+      <webElementGuid>c9cb4b79-5236-464f-afa1-63656a4004fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optional Field - configure a rule to define a conditional exit'])[1]/following::div[29]</value>
+      <webElementGuid>c87e52ca-3144-4511-b80c-5587c5c82490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optional Field - configure a rule to track Control Group behaviour'])[1]/following::div[29]</value>
+      <webElementGuid>0f032450-1af4-4a63-842a-388d72717544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]</value>
+      <webElementGuid>058d4f2d-e151-4fbe-8dba-5dc4d0db078c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Exclusions' or . = 'Exclusions')]</value>
+      <webElementGuid>e509fe02-30b0-40a3-820f-e1f9bc718c91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

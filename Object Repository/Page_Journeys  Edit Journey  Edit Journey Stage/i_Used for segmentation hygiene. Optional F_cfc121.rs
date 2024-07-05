@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Used for segmentation hygiene. Optional F_cfc121</name>
+   <tag></tag>
+   <elementGuidId>3f9cb7ca-2b52-4728-93eb-43657faac1bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panzoom-wrapper']/ul/li[3]/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-calendar.font-120</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Stage Schedule Starting Fri Jul 05 2024. Each cycle runs for NaN day.Runs Once. &quot;i >> i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1d3afa7d-9d3f-4701-b720-979bfe573c28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-calendar font-120</value>
+      <webElementGuid>bcabee97-d24c-43c5-8f92-4664e1ac02bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panzoom-wrapper&quot;)/ul[@class=&quot;timeline ng-scope&quot;]/li[@class=&quot;timeline-inverted&quot;]/div[@class=&quot;timeline-badge sky&quot;]/i[@class=&quot;fa fa-calendar font-120&quot;]</value>
+      <webElementGuid>6cade174-fd8e-4165-a26a-c28194b9a16b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panzoom-wrapper']/ul/li[3]/div/i</value>
+      <webElementGuid>14b4cc9f-5ae1-4fa7-adaa-3c7f70aa04b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/i</value>
+      <webElementGuid>2a853ad2-d8c0-40b5-8c64-853d58787fc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

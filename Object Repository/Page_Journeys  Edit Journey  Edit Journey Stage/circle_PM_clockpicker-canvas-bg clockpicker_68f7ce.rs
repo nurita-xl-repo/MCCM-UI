@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>circle_PM_clockpicker-canvas-bg clockpicker_68f7ce</name>
+   <tag></tag>
+   <elementGuidId>dcb53a7e-abc6-41f1-9bfa-a804f8b21973</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>circle.clockpicker-canvas-bg.clockpicker-canvas-bg-trans</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>circle >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+      <webElementGuid>e36145fe-ba20-4caf-82a3-a2fcb6169c1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clockpicker-canvas-bg clockpicker-canvas-bg-trans</value>
+      <webElementGuid>c8da8b83-6e63-438a-a879-07dbb454bb01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>r</name>
+      <type>Main</type>
+      <value>13</value>
+      <webElementGuid>24143ffb-2da5-499a-ad2e-4a022f98b821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cx</name>
+      <type>Main</type>
+      <value>39.99999999999999</value>
+      <webElementGuid>122dbe2d-62d7-479c-a474-9990e1c0d59f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cy</name>
+      <type>Main</type>
+      <value>-69.2820323027551</value>
+      <webElementGuid>adbf6cd1-f2e3-4a23-a8d1-25d37c576bc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;popover clockpicker-popover bottom clockpicker-align-left&quot;]/div[@class=&quot;popover-content&quot;]/div[@class=&quot;clockpicker-plate&quot;]/div[@class=&quot;clockpicker-canvas clockpicker-canvas-out&quot;]/svg[@class=&quot;clockpicker-svg&quot;]/g[1]/circle[@class=&quot;clockpicker-canvas-bg clockpicker-canvas-bg-trans&quot;]</value>
+      <webElementGuid>ada243fb-4783-40c0-86d4-e36e99ad9126</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
